@@ -1,0 +1,6 @@
+@media all and (min-width:768px) {
+	.lb-outerContainer, .lb-dataContainer, .lb-image {
+		width:600px !important;
+		height:400px !important;
+	}
+}
